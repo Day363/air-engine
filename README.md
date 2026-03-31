@@ -1,2 +1,4 @@
 # air-engine
-full-custom engine for linux(or etc) users
+full-custom game engine for linux(or etc) users
+
+you can make anything you need

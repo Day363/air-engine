@@ -4,7 +4,7 @@ you cant develop without air
 full-custom game engine for linux(or etc) users
 you can make anything you need
 
-Shark lisence
+# Shark lisence
 Except for riding sharks, it can be used anywhere. (To prevent damage to undersea cables)
 
 made by team earth
